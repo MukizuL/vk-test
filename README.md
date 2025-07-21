@@ -1,4 +1,4 @@
-## Тестовое задание для Hezzl
+## Тестовое задание для VK
 Сортировка поддерживает: date, -date, created_at, -created_at, price, -price.
 
 ## Запуск
